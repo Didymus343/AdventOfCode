@@ -1,6 +1,6 @@
 ﻿// Advent of code start program
 
-var test = new Year2022();
+var test = new AoC2025.Year2025();
 
 
 //var test = new Day01(false, false);
